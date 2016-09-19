@@ -1,7 +1,6 @@
 # BookServiceWebAPIKnockoutJS
-This tutorial will teach you the basics of creating a web application with an ASP.NET Web API back end.
-<br/>The tutorial uses Entity Framework 6 for the data layer, and Knockout.js for the client-side JavaScript application.
-<br/>The tutorial also shows how to deploy the app to Azure App Service Web Apps.
+This tutorial creates a web application with an ASP.NET Web API back end, using Entity Framework 6 for the data layer, and Knockout.js for the client-side JavaScript application.
+<br/>My purpose following this tutorial was to explore the integration between KnockoutJS and MVC a bit, and its basic functionalities.
 <br/><br/>
 Original code at: http://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-1
 <br/>
