@@ -1,5 +1,5 @@
 ﻿var ViewModel = function () {
-    var self = this;
+    var self = this; 
     self.books = ko.observableArray();
     self.error = ko.observable();
     self.detail = ko.observable();
