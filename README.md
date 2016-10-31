@@ -1,4 +1,4 @@
-# BookServiceWebAPIKnockoutJS 
+# BookServiceWebAPIKnockoutJS  
 This tutorial creates a web application with an ASP.NET Web API back end, using Entity Framework 6 for the data layer, and Knockout.js for the client-side JavaScript application.
 <br/>My purpose following this tutorial was to explore the integration between KnockoutJS and MVC a bit, and its basic functionalities.
 <br/><br/>
